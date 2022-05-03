@@ -1,0 +1,9 @@
+
+SQL*Loader: Release 21.0.0.0.0 - Production on Thu Apr 28 13:50:30 2022
+Version 21.3.0.0.0
+
+Copyright (c) 1982, 2021, Oracle and/or its affiliates.  All rights reserved.
+
+SQL*Loader-704: Internal error: ulconnect: OCIServerAttach [0]
+ORA-12504: TNS:listener was not given the SERVICE_NAME in CONNECT_DATA
+
