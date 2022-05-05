@@ -1,4 +1,4 @@
-userid=C##_10_GROUP4/
+userid=C##_10_GROUP4/C##_10_GROUP4@35.172.227.182:1521/DEV
 control=email.ctl
 log=email.log
 bad=email.bad
